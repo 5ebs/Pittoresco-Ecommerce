@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+}
+
+main {
+  min-height: 80vh;
+}
+
+.container h1 {
+  color: #17a2b8;
+}
+
+h3 {
+  padding-top: 1rem;
+}
+
+.rating span {
+  margin: 0.1rem;
+}
+
+.card-body > a {
+  text-decoration: none;
+}
+

@@ -1,0 +1,6 @@
+c.my-3 img {
+  transition: all 0.2s ease-in-out;
+}
+.my-3 img:hover {
+  transform: scale(1.1);
+}
